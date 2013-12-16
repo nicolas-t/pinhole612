@@ -4,13 +4,15 @@ Pinhole 612
 
 
 Multi format `6x12` pinhole camera made from 3mm MDF  
+  
+
 Download `pinhole-612-mdf3mm.skp` to get the file (sketchup)   
-`preview.stl` is bugged only here to see the model directly 
+See`preview.stl` to get a preview (be carefull this file is a little bugged) 
 
  **FORMATS:** 
 > - `6x12`
 > - `6x9`
-> - `6x8`
+> - `6x7`
 > - `6x6`
 > - possibility for `4.5x6`
 
