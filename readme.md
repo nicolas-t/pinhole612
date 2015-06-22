@@ -4,7 +4,9 @@ Pinhole 612
 
 
 Multi format `6x12` pinhole camera made from 3mm MDF  
-  
+
+
+![Image of Finished pinhole](http://blog.insipi.de/data/images/001/le-stenope/2.jpg)
 
 Download `pinhole-612-mdf3mm.skp` to get the file (sketchup)   
 See`preview.stl` to get a preview (be carefull this file is a little bugged) 
